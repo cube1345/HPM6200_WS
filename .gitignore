@@ -1,0 +1,12 @@
+/.agents
+/.vscode
+
+/user_app/core0/src/sec_core_img.c
+/user_app/build/
+/user_app/core1/build/
+
+/user_app/linkers/
+
+*pdf
+AGENTS.md
+ARCHITECTURE.md

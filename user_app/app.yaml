@@ -1,0 +1,7 @@
+dependency:
+  - multicore
+
+linked_project:
+  project_name: user_app/core1
+  project_path: core1
+  build_type: sec_core_img
